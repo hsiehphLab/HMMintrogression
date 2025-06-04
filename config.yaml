@@ -1,0 +1,28 @@
+---
+f_list_ingrpVCF: inputFiles/list_ingrpVCF_bychrom.txt
+f_list_outgrpVCF: inputFiles/list_outgrpVCF_bychrom.txt
+
+f_list_gmap: inputFiles/list_gmap_bychrom.txt
+
+HumanPopID:
+    EAS: inputFiles/IDfiles/EAS.new.ids
+
+ARCPopID:
+    NDL: inputFiles/IDfiles/NDL.v2.ids
+    DNS: inputFiles/IDfiles/DNS.ids
+
+OutgroupPopID: 
+    AFR: inputFiles/IDfiles/AFR.new.ids
+
+# callable sequences based on PAV output
+callableSeq: inputFiles/callable.bed
+
+REFfa: inputFiles/chr22.GRCh38.fa
+AAfa: inputFiles/chr22.AA.fa
+INITIAL: inputFiles/initialGuess.txt
+
+outgroup_JSON: inputFiles/jsonFiles/individuals.oAFR.json 
+
+JSON:
+    EAS: inputFiles/jsonFiles/individuals.EAS.json 
+

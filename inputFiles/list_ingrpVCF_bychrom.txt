@@ -1,0 +1,1 @@
+inputFiles/test.ingroup.chr22.vcf.gz

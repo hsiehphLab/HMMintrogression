@@ -1,0 +1,1 @@
+inputFiles/plink.chr22.GRCh38.rename.map
